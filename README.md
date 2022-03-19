@@ -1,6 +1,12 @@
-# riverpod_demo
+# state_notifier_provider
 
 A new Flutter project.
+
+
+## 画像
+
+<img src="https://user-images.githubusercontent.com/92189386/159102527-cca6ed1e-7e69-4486-bd35-9f74c2d47eac.png" width="300">
+
 
 ## Getting Started
 
